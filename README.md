@@ -49,7 +49,7 @@ Create a realm using the `!createrealm <text>` command.
 
 Logo and Graphic : 
 
-Alfroshotak !
+MamShooTaK !
 
 ### TeleGram Channel :
 [Iran Team](telegram.me/IR_TEAM)
