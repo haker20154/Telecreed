@@ -3,7 +3,7 @@ http = require "socket.http"
 https = require "ssl.https"
 ltn12 = require "ltn12"
 
-
+serpent = (loadfile "./home/parsa/.telegram-cli")()
 feedparser = (loadfile "./libs/feedparser.lua")()
 json = (loadfile "./libs/JSON.lua")()
 mimetype = (loadfile "./libs/mimetype.lua")()
